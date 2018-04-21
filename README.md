@@ -60,7 +60,7 @@ You will get the chance to learn how to develop the cutting-edge data science ap
     * [Q-Learning for simple Atari games](https://github.com/jalajthanaki/Q_learning_for_simple_atari_game)
     * [Space Invaders gaming bot](https://github.com/jalajthanaki/SpaceInvaders_gamingbot)
     * [Ping Pong gaming bot](https://github.com/jalajthanaki/Atari_pong_gaming_bot)
-
+    * [Flappy Bird gaming bot](https://github.com/jalajthanaki/DQN_FlappyBird)
     
 
 * **Appendix A, List of cheat sheets,** in this chapter we will get the list of cheat sheets for various python libraries which we are frequently using in data science applications.
