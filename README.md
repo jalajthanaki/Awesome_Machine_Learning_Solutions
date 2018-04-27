@@ -1,7 +1,4 @@
 # Awesome Machine Learning Solutions
-
-[![Join the chat at https://gitter.im/Awesome_Machine_Learning_Solutions/Lobby](https://badges.gitter.im/Awesome_Machine_Learning_Solutions/Lobby.svg)](https://gitter.im/Awesome_Machine_Learning_Solutions/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 A curated list of repositories for my book [Machine Learning Solutions.](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-solutions)
 
 You will get the chance to learn how to develop the cutting-edge data science applications using various Machine Learning (ML) techniques. This book is practical guide which can help you to build and optimize your data science applications.
@@ -72,3 +69,7 @@ You will get the chance to learn how to develop the cutting-edge data science ap
 
 * **Appendix B, Strategy for wining hackathons,** in this chapter we will get to know what the possible strategy for winning hackathons can be. I have also listed down some of the cool resources which can help you to update yourself.
     
+ #### You can join the given gitter room for further discusstion.
+
+[![Join the chat at https://gitter.im/Awesome_Machine_Learning_Solutions/Lobby](https://badges.gitter.im/Awesome_Machine_Learning_Solutions/Lobby.svg)](https://gitter.im/Awesome_Machine_Learning_Solutions/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
