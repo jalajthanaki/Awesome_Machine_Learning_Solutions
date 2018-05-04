@@ -52,7 +52,7 @@ You will get the chance to learn how to develop the cutting-edge data science ap
 * **Chapter 10, Face recognition and face emotion recognition,** in this first half of the chapter we will build the application which can recognize the human faces. During second half of the chapter we will be developing application which can recognize facial expression of human. We will be using OpenCV, Keras and TensorFlow to build this application.
     * [Simple face recognition](https://github.com/jalajthanaki/Face_recognition)
     * [Facial emotion recognition using TensorFlow](https://github.com/jalajthanaki/Facial_emotion_recognition_using_TensorFlow)
-    * [Facial emotion recognition using Kera](https://github.com/jalajthanaki/Facial_emotion_recognition_using_Keras)
+    * [Facial emotion recognition using Keras](https://github.com/jalajthanaki/Facial_emotion_recognition_using_Keras)
 
 
 * **Chapter 11, Building gaming bots,** in this chapter we will be learning about Reinforcement Learning. Here we will be using gym or universe library to get the gaming environment. We first understood Q-learning algorithm and later on we will implement the same to train our gaming bot. Here we are building bot for atari games.
