@@ -1,7 +1,7 @@
 # Awesome Machine Learning Solutions
 A curated list of repositories for my book [Machine Learning Solutions.](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-solutions)
 
-You will get the chance to learn how to develop the cutting-edge data science applications using various Machine Learning (ML) techniques. This book is practical guide which can help you to build and optimize your data science applications.
+You will get the chance to learn how to develop the cutting-edge data science applications using various Machine Learning (ML) techniques. This book is practical guide which can help you to build and optimize your data science applications. You can access the source code by using links given after chapter description.
 
 
 * **Chapter 1, Credit risk modeling,** in this chapter we will build the predictive analytics model which can help us to predict the weather customer will default the loan or not. We will be using outlier detection, features transformation, ensemble machine learning algorithms and so on to get the best possible solution.
